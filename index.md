@@ -12,16 +12,21 @@ Log Analytics for comprehensive monitoring and alerting.
 Key Achievements:
 
 -Set up a virtual machine and resource group to host the SIEM solution.
+
 -Configured Microsoft Sentinel to integrate with Log Analytics, enabling real-time security monitoring.
+
 -Developed and deployed a custom Sentinel rule to detect unauthorized RDP sign-ins, leading to the logging of over 10,000
 security events within the first hour of operation.
+
 -Gained hands-on experience with SIEM tools, threat intelligence, and data collection, enhancing incident detection and
 response capabilities.
 
 Skills Demonstrated:
 
 -SIEM deployment and configuration
+
 -Threat detection and incident response
+
 -Log analysis and monitoring
 
 ## Home Server Project
