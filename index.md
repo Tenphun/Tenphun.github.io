@@ -5,12 +5,12 @@ layout: default
 # Projects
 
 ## SIEM on Azure: Monitoring, Alerts, and Threat Intelligence 
-Description:
+#### Description:
 Implemented a Security Information and Event Management (SIEM) system on Microsoft Azure, leveraging Microsoft Sentinel and
 Log Analytics for comprehensive monitoring and alerting.
 
 
-Key Achievements:
+#### Key Achievements:
 
 -Set up a virtual machine and resource group to host the SIEM solution.
 
@@ -23,7 +23,7 @@ security events within the first hour of operation.
 response capabilities.
 
 
-Skills Demonstrated:
+#### Skills Demonstrated:
 
 -SIEM deployment and configuration
 
@@ -32,12 +32,12 @@ Skills Demonstrated:
 -Log analysis and monitoring
 
 ## Home Server Project
-Description:
+#### Description:
 Built and configured a home server running Linux, focusing on implementing robust security measures and optimizing server
 performance.
 
 
-Key Achievements:
+#### Key Achievements:
 
 -Established a secure Linux-based home server environment with firewall rules and non-root user accounts to enhance
 security.
@@ -50,7 +50,7 @@ security.
 through hands-on experience.
 
 
-Skills Demonstrated:
+#### Skills Demonstrated:
 
 -Linux server setup and configuration
 
@@ -60,12 +60,12 @@ Skills Demonstrated:
 
 ## Cybersecurity Blog
 
-Description:
+#### Description:
 Maintained a personal blog, "Phuntsok’s Net," dedicated to documenting and sharing insights into cybersecurity concepts and
 practices.
 
 
-Key Achievements:
+#### Key Achievements:
 
 -Published articles on various topics, including Capture the Flag (CTF) exercises, homelab setup, Linux installation, and
 cybersecurity events.
@@ -76,7 +76,7 @@ readers on potential risks and mitigation strategies.
 -Developed practical skills in Linux, server configuration, and coding projects like a random password generator and an
 encrypted password manager.
 
-Skills Demonstrated:
+#### Skills Demonstrated:
 
 -Technical writing and content creation
 
