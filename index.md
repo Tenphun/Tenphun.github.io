@@ -2,72 +2,67 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Projects
 
-[Link to another page](./another-page.html).
+## SIEM on Azure: Monitoring, Alerts, and Threat Intelligence 
+Description:
+Implemented a Security Information and Event Management (SIEM) system on Microsoft Azure, leveraging Microsoft Sentinel and
+Log Analytics for comprehensive monitoring and alerting.
 
-There should be whitespace between paragraphs.
+Key Achievements:
+-Set up a virtual machine and resource group to host the SIEM solution.
+-Configured Microsoft Sentinel to integrate with Log Analytics, enabling real-time security monitoring.
+-Developed and deployed a custom Sentinel rule to detect unauthorized RDP sign-ins, leading to the logging of over 10,000
+security events within the first hour of operation.
+-Gained hands-on experience with SIEM tools, threat intelligence, and data collection, enhancing incident detection and
+response capabilities.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Skills Demonstrated:
+-SIEM deployment and configuration
+-Threat detection and incident response
+-Log analysis and monitoring
 
-# Header 1
+## Home Server Project
+Description:
+Built and configured a home server running Linux, focusing on implementing robust security measures and optimizing server
+performance.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Key Achievements:
+-Established a secure Linux-based home server environment with firewall rules and non-root user accounts to enhance
+security.
+-Documented the entire setup process, including troubleshooting challenges related to SSH access, IP configuration, and
+-Docker container management.
+-Applied practical knowledge in network management, server hardening, and cybersecurity best practices, refining skills 
+through hands-on experience.
 
-## Header 2
+Skills Demonstrated:
+-Linux server setup and configuration
+-Network security and firewall management
+-Docker containerization and server hardening
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Cybersecurity Blog
 
-### Header 3
+Description:
+Maintained a personal blog, "Phuntsok’s Net," dedicated to documenting and sharing insights into cybersecurity concepts and
+practices.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Key Achievements:
+-Published articles on various topics, including Capture the Flag (CTF) exercises, homelab setup, Linux installation, and
+cybersecurity events.
+-Analyzed and explained recent cybersecurity threats and vulnerabilities, such as the IPv6 bug (CVE-2024-38063), to educate
+readers on potential risks and mitigation strategies.
+-Developed practical skills in Linux, server configuration, and coding projects like a random password generator and an
+encrypted password manager.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+Skills Demonstrated:
+-Technical writing and content creation
+-Vulnerability analysis and threat research
+-Practical coding and security tool development
 * * *
 
-### Here is an unordered list:
+# Coding Projects
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+
 
 ### And an ordered list:
 
