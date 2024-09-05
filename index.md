@@ -88,6 +88,23 @@ encrypted password manager.
 
 # Coding Projects
 
+## Random Password Generator with GUI
+
+#### Summary:
+
+This tool simplifies password generation with a GUI, making it accessible to users of all levels and adaptable for various security needs.
+
+
+#### Features:
+
+-Password Generation: Creates random passwords with letters, numbers, and symbols. 
+
+-GUI Interface: Allows users to specify password length and character sets via a user-friendly window. 
+
+
+#### How It Works Setup: 
+Utilizes random for generating characters and tkinter for the GUI. Functionality: Users enter the desired password length
+and choose character options. The generated password is displayed directly in the GUI.
 
 
 ### And an ordered list:
