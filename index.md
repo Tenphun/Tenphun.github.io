@@ -10,6 +10,7 @@ Implemented a Security Information and Event Management (SIEM) system on Microso
 Log Analytics for comprehensive monitoring and alerting.
 
 Key Achievements:
+
 -Set up a virtual machine and resource group to host the SIEM solution.
 -Configured Microsoft Sentinel to integrate with Log Analytics, enabling real-time security monitoring.
 -Developed and deployed a custom Sentinel rule to detect unauthorized RDP sign-ins, leading to the logging of over 10,000
@@ -18,6 +19,7 @@ security events within the first hour of operation.
 response capabilities.
 
 Skills Demonstrated:
+
 -SIEM deployment and configuration
 -Threat detection and incident response
 -Log analysis and monitoring
@@ -28,6 +30,7 @@ Built and configured a home server running Linux, focusing on implementing robus
 performance.
 
 Key Achievements:
+
 -Established a secure Linux-based home server environment with firewall rules and non-root user accounts to enhance
 security.
 -Documented the entire setup process, including troubleshooting challenges related to SSH access, IP configuration, and
@@ -36,6 +39,7 @@ security.
 through hands-on experience.
 
 Skills Demonstrated:
+
 -Linux server setup and configuration
 -Network security and firewall management
 -Docker containerization and server hardening
@@ -47,6 +51,7 @@ Maintained a personal blog, "Phuntsok’s Net," dedicated to documenting and sha
 practices.
 
 Key Achievements:
+
 -Published articles on various topics, including Capture the Flag (CTF) exercises, homelab setup, Linux installation, and
 cybersecurity events.
 -Analyzed and explained recent cybersecurity threats and vulnerabilities, such as the IPv6 bug (CVE-2024-38063), to educate
@@ -55,6 +60,7 @@ readers on potential risks and mitigation strategies.
 encrypted password manager.
 
 Skills Demonstrated:
+
 -Technical writing and content creation
 -Vulnerability analysis and threat research
 -Practical coding and security tool development
