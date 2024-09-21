@@ -30,7 +30,32 @@ response capabilities.
 -Threat detection and incident response
 
 -Log analysis and monitoring
+----------------------------------------------------------------------------------------------------------------------------
 
+## Cloud Security with AWS IAM
+#### Description: Configured AWS Identity and Access Management (IAM) to secure cloud infrastructure for NextWork, focusing 
+on permission management and resource organization.
+
+
+#### Key Achievements:
+
+-Set up and managed EC2 instances for production and development environments using environment tags.
+Created a custom IAM policy to control access to EC2 instances, ensuring secure collaboration while restricting critical 
+actions.
+
+-Implemented a user-friendly AWS Account Alias for streamlined onboarding and access management.
+
+-Tested access controls by simulating user actions, successfully enforcing permissions and security policies.
+
+
+#### Skills Demonstrated:
+
+-Cloud security and IAM configuration
+
+-Access control management
+
+-EC2 instance setup and tagging
+----------------------------------------------------------------------------------------------------------------------------
 ## Home Server Project
 #### Description:
 Built and configured a home server running Linux, focusing on implementing robust security measures and optimizing server
@@ -57,9 +82,9 @@ through hands-on experience.
 -Network security and firewall management
 
 -Docker containerization and server hardening
+----------------------------------------------------------------------------------------------------------------------------
 
 ## Cybersecurity Blog
-
 #### Description:
 Maintained a personal blog, "Phuntsok’s Net," dedicated to documenting and sharing insights into cybersecurity concepts and
 practices.
