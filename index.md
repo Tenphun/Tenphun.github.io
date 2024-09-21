@@ -30,6 +30,7 @@ response capabilities.
 -Threat detection and incident response
 
 -Log analysis and monitoring
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Cloud Security with AWS IAM
@@ -55,6 +56,7 @@ actions.
 -Access control management
 
 -EC2 instance setup and tagging
+
 ----------------------------------------------------------------------------------------------------------------------------
 ## Home Server Project
 #### Description:
@@ -82,6 +84,7 @@ through hands-on experience.
 -Network security and firewall management
 
 -Docker containerization and server hardening
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Cybersecurity Blog
@@ -92,7 +95,7 @@ practices.
 
 #### Key Achievements:
 
--Published articles on various topics, including Capture the Flag (CTF) exercises, homelab setup, Linux installation, and
+-Published articles on various topics, including Capture the Flag (CTF) exercises, home server setup, Linux installation, and
 cybersecurity events.
 
 -Analyzed and explained recent cybersecurity threats and vulnerabilities, such as the IPv6 bug (CVE-2024-38063), to educate
